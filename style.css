@@ -1,0 +1,38 @@
+
+html{
+  background: url(Gawebphoto.jpg);
+  background-size: cover; height: 100%;
+  background-repeat: no-repeat;
+  font-family: 'Londrina Solid', cursive;
+}
+
+h1 {
+  text-align: left;
+  color: rgba(0,122,204,1);
+  font-size: 50;
+  color: #2f4f4f ;
+}
+
+
+p{
+  position: center;
+  float: center;
+  color: #2f4f4f ;
+  font-size: 125%;
+}
+
+
+}
+
+.social-icon{
+  display:  inline-block;
+  max-height: 40px;
+  padding: 0px 0 2px 5px;
+
+
+}
+@median(max-width: 500) p{
+  text-align: center;
+
+
+}
